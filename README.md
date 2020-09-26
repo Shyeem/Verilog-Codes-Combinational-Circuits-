@@ -5,7 +5,7 @@ The outputs of the codes are as follows and the codes along with their testbench
 
 ## 4-bit Comparator
 ![](Comparator%20(4-bit)/four_bit_comp.png)
-## User deefined decoder 
+## User defined decoder 
 ![](Decoder%20(user%20defined)/decoder_op.png)
 ## DeMUX (1 to 4)
 ![](Demux%20(1%20to%204)/demux_1t4.png)
