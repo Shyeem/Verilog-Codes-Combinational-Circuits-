@@ -3,6 +3,7 @@
 This project contains all of the Verilog codes for combinational circuits that I have practiced. 
 The outputs of the codes are as follows and the codes along with their testbench are provided in the respective repositories.
 
+## 4-bit ALU
 ## 4-bit Comparator
 ![](Comparator%20(4-bit)/four_bit_comp.png)
 ## User defined decoder 
